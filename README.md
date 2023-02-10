@@ -41,6 +41,31 @@ Required: gensim; MosesTokenizer
 11) python SacreBLEU_TER_Coherence_Evaluation_code/eval_coherence.py # putting the file containing three precoding utterances and the predicted file in corresponding location and then running it.
 
 
+# Citation
+@article{DBLP:journals/corr/abs-2301-11749,
+  author    = {Chulun Zhou and
+               Yunlong Liang and
+               Fandong Meng and
+               Jie Zhou and
+               Jinan Xu and
+               Hongji Wang and
+               Min Zhang and
+               Jinsong Su},
+  title     = {A Multi-task Multi-stage Transitional Training Framework for Neural
+               Chat Translation},
+  journal   = {CoRR},
+  volume    = {abs/2301.11749},
+  year      = {2023},
+  url       = {https://doi.org/10.48550/arXiv.2301.11749},
+  doi       = {10.48550/arXiv.2301.11749},
+  eprinttype = {arXiv},
+  eprint    = {2301.11749},
+  timestamp = {Tue, 31 Jan 2023 16:32:09 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2301-11749.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
 # Reference
 [1] Zhixing Tan, Jiacheng Zhang, Xuancheng Huang, Gang Chen, Shuo Wang, Maosong Sun, Huanbo Luan, and Yang Liu. 2020. THUMT: An open-source toolkit for neural machine translation. In Proceedings of AMTA, pages 116–122.
 [2] Bill Byrne, Karthik Krishnamoorthi, ChinnadhuraiSankar, Arvind Neelakantan, Ben Goodrich, DanielDuckworth, Semih Yavuz, Amit Dubey, KyuYoungKim, and Andy Cedilnik. 2019. Taskmaster-1: Toward a realistic and diverse dialog dataset. In Proceedings of EMNLP-IJCNLP, pages 4516–4525.
