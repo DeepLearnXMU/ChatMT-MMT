@@ -1,4 +1,6 @@
-# Flat-NCT+MMT
+
+# ChatMT-MMT
+This repository contains the code for "A Multi-Task Multi-Stage Transitional Training Framework for Neural Chat Translation"
 Our code is basically based on the publicly available toolkit: THUMT-Tensorflow[1] (python version 3.6). Please refer to it in Github for the required dependency. (Just seach it on Github.)
 
 The following steps are training our model and then test its performance in terms of BLEU, TER, and Sentence Similarity.
