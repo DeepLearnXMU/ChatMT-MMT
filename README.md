@@ -42,7 +42,8 @@ Required: gensim; MosesTokenizer
 
 
 # Citation
-@article{DBLP:journals/corr/abs-2301-11749,
+@article{  
+DBLP:journals/corr/abs-2301-11749,  
   author    = {Chulun Zhou and
                Yunlong Liang and
                Fandong Meng and
@@ -50,18 +51,18 @@ Required: gensim; MosesTokenizer
                Jinan Xu and
                Hongji Wang and
                Min Zhang and
-               Jinsong Su},
+               Jinsong Su},  
   title     = {A Multi-task Multi-stage Transitional Training Framework for Neural
-               Chat Translation},
-  journal   = {CoRR},
-  volume    = {abs/2301.11749},
-  year      = {2023},
-  url       = {https://doi.org/10.48550/arXiv.2301.11749},
-  doi       = {10.48550/arXiv.2301.11749},
-  eprinttype = {arXiv},
-  eprint    = {2301.11749},
-  timestamp = {Tue, 31 Jan 2023 16:32:09 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2301-11749.bib},
+               Chat Translation},  
+  journal   = {CoRR},  
+  volume    = {abs/2301.11749},  
+  year      = {2023},  
+  url       = {https://doi.org/10.48550/arXiv.2301.11749},  
+  doi       = {10.48550/arXiv.2301.11749},  
+  eprinttype = {arXiv},  
+  eprint    = {2301.11749},  
+  timestamp = {Tue, 31 Jan 2023 16:32:09 +0100},  
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2301-11749.bib},  
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
